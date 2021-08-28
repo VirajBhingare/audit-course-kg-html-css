@@ -91,6 +91,13 @@ nav {
     width: 40%;
 }
 
+/* Shapes */
+#triangle {
+    position: absolute;
+    left: 2rem;
+    top: 30rem;
+}
+
 /* Next Section Heading */
 .next-section-heading {
     position: relative;
