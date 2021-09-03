@@ -1,3 +1,12 @@
-# setup-repo-8.25-audit-course
+# Audit Course - Web Page Recreated
 
-The screenshot in the main folder is the page to be recreated by you. The images folder has the logo, picture & triangle svg to be used. You should NOT use inline css (within the header/body) but rather an external css file.Flexbox is allowed for this project. The background shapes were created using simple css. Goodluck!
+The page `screenshot.png` is replicated using HTML and CSS only.
+
+The replicated page is saved as `completed-screenshot.png`
+
+Note : The Web Page is not responsive
+
+## Replicated Page (Screenshot)
+![alt text][completed-screenshot]
+
+[completed-screenshot]: completed-screenshot.png "Replicated Page on Completion"
