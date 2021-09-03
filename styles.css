@@ -93,9 +93,34 @@ nav {
 
 /* Shapes */
 #triangle {
+    width: 10%;
     position: absolute;
-    left: 2rem;
-    top: 30rem;
+    transform: translate(-100px, 50px);
+    opacity: 0.1;
+}
+
+.pill-shape {
+    position: absolute;
+    border: 3px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50rem;
+}
+
+#pill1 {
+    height: 15vh;
+    width: 30vh;
+    transform: translate(400px, -240px) rotate(-30deg);
+}
+
+#pill2 {
+    height: 16vh;
+    width: 32vh;
+    transform: translate(1340px, -100px);
+}
+
+#pill3 {
+    height: 15vh;
+    width: 30vh;
+    transform: translate(900px) rotate(26deg);
 }
 
 /* Next Section Heading */
@@ -107,8 +132,4 @@ nav {
     font-weight: 400;
     font-size: 1.25rem;
     margin: 0 auto;
-}
-
-#arrow-down-solid {
-    width: 1%;
 }
